@@ -1,5 +1,38 @@
-# 💫 About Me:
-👋 About Me<br>🔭 I’m currently working on:<br>A cybersecurity-focused password cracker and backend systems using Python and Flask.<br><br>🤝 I’m looking to collaborate on:<br>Open-source security tools, backend APIs, and Python-based automation projects.<br><br>💡 I’m looking for help with:<br>Improving my knowledge of secure coding practices and real-world backend deployment strategies.<br><br>🌱 I’m currently learning:<br>Cybersecurity fundamentals, backend development (Flask, SQL), and Linux system administration.<br><br>💬 Ask me about:<br>Python, backend development, REST APIs, and cybersecurity basics.<br><br>⚡ Fun fact:<br>I started coding to build a game that teaches kids how to program—and now I’m building tools to help secure the internet.
+# 💫 About Me
+
+👋 Hi there!  
+
+## 🔭 I’m currently working on
+I am currently building an app with my friends called **Game-Coded**, which teaches kids aged 8–14 how to program through gamification. We’re using **Javalin** as our backend framework, and I’m contributing in the **backend development** role, designing and implementing server-side logic and APIs.  
+In addition, I’ve worked on **Java-based projects** focused on building robust backend solutions.
+
+## 🤝 I’m looking to collaborate on
+- Open-source security tools  
+- Backend APIs  
+- Python and Java projects  
+- Automation initiatives  
+
+## 💡 I’m looking for help with
+- Secure coding practices  
+- Real-world backend deployment strategies  
+- Advanced automation workflows  
+
+## 🌱 I’m currently learning
+- Cybersecurity fundamentals  
+- Backend development (Flask, SQL, Java)  
+- Linux system administration  
+- Containerization using **Docker**  
+- CI/CD pipelines via **GitLab**  
+
+## 💬 Ask me about
+Python, Java, backend development, REST APIs, GitLab CI/CD, Docker, and cybersecurity basics  
+
+## 💼 Team Experience
+I’ve worked in collaborative teams using **Agile/Scrum methodologies**, which strengthened my soft skills, helped me manage tasks efficiently, and allowed me to implement project automation and containerized deployments effectively.  
+
+## ⚡ Fun fact
+I started coding to build a game that teaches kids how to program—and now I’m building tools to help secure the internet.
+
 
 
 ## 🌐 Socials:
