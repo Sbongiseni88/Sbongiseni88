@@ -3,47 +3,39 @@
 👋 Hi there!  
 
 ## 🔭 I’m currently working on
-I am a Software Engineer and AI Developer dedicated to building high-impact, low-latency systems. While I have a strong foundation in Java-based backend solutions and RESTful APIs , my recent focus has shifted toward Data Science, AI, and Machine Learning integration.
+I am a Software Engineer/AI Engineer dedicated to building high-impact, low-latency systems. While I have a strong foundation in SOLID backend solutions and RESTful APIs , my recent focus has shifted toward AI development, IoT and Machine Learning integration.
 
-I recently completed Game-Coded, a gamified educational platform for children aged 8–14. In this project, I spearheaded the AI implementation by architecting a hybrid chatbot system that utilizes TinyLlama for offline-first inference and falls back to Llama 3 for cloud-based queries.
+I've worked on a user friendly android mobile application called 'Game-Coded', a gamified educational platform for anyone who wants to learn programming. In this project, I spearheaded the AI implementation by architecting a hybrid chatbot system that utilizes TinyLlama for offline-first inference and falls back to Llama 3 for cloud-based queries.
 
 Technical Highlights:
 AI & Data: Specialized in Retrieval-Augmented Generation (RAG), ChromaDB vector embeddings, and real-time audio processing.
-Backend Expertise: Proficient in Java (Spring Boot) and Python (AsyncIO, Flask) with a commitment to Test-Driven Development (TDD).
-Professional Methodology: Experienced in brownfield development, which has sharpened my skills in navigating legacy codebases and working within Agile/Scrum frameworks.
-Mentorship: I currently serve as a Peer & Technical Mentor at WeThinkCode_, where I guide junior developers through debugging and backend workflows.
-I am passionate about leveraging AI to solve local challenges and am currently exploring new opportunities in the data-focused engineering space.
+Backend Expertise: Proficient in Javascript/Typescript (Node.js) and Python (AsyncIO, Fast API) with a commitment to Test-Driven Development (TDD).
+Professional Methodology: Experienced in brownfield development (working on legacy systems), and IoT integration into embedded linux systems, which has sharpened my skills in navigating legacy codebases and working within Agile/Scrum frameworks, 
+Mentorship: I served as a Peer & Technical Mentor/ supervisor at WeThinkCode_, where I guided junior developers through software development concepts, debugging techniques, collaborative coding practices, and project-based learning while fostering problem-solving skills and professional growth
+I am passionate about leveraging AI to solve local challenges.
 
 ## 🤝 I’m looking to collaborate on
-- Open-Source Security & Automation: Projects focused on secure data processing, TDD, and infrastructure automation
-- Scalable Backend APIs: Developing robust server-side logic and RESTful endpoints in Java (Spring Boot) and Python (AsyncIO, Flask).  
+- Open-Source Projects: Projects focused on AI development, IoT and Machine Learning integration, as well as building high-impact, low-latency systems with scalable backend architectures and RESTful APIs
+- Scalable Backend APIs: Developing robust server-side logic and RESTful endpoints in Javascript/Typescript (Node.js) and/or Python (AsyncIO, Flask).  
 - RAG & LLM Integration: Implementing high-accuracy Retrieval-Augmented Generation using ChromaDB and Large Language models 
-- AI-Powered Educational Tools: Building accessible and profecient learning platforms 
 
 ## 💡 I’m looking for help with
-- Secure Coding & Data Privacy: Implementing industry-standard security practices for handling user data and sensitive construction pricing information
-- Real-World Backend Deployment: Strategies for scaling Python (AsyncIO) and Java (Spring Boot) applications in production environments like AWS
 - Advanced Automation & DevOps: Optimizing CI/CD pipelines and automating testing workflows to maintain the 99% code reliability I strive for in my projects.
-- System Design for Scalability: Refining the architecture of digital platforms to support high-concurrency real-time data processing.  
+- System Design for Scalability: Refining the architecture of digital platforms to support high-concurrency real-time data processing.
+- AI & Machine Learning Engineering: Exploring production-ready AI systems, model deployment, LLM integrations, and low-latency inference pipelines
+- IoT & Edge Computing: Building intelligent connected systems that combine sensor data, real-time communication, and cloud-based analytics
+- High-Performance Backend Engineering: Designing resilient, event-driven services with a focus on scalability, observability, and clean architecture principles
+- Open-Source Collaboration: Contributing to impactful projects involving AI, infrastructure automation, developer tooling, and distributed systems  
 
 ## 🌱 I’m currently learning
-- Data-Driven Engineering & Analytics: Mastering Data Structures and Algorithms and applying data analysis principles to real-world datasets.
-- System Design & Architecture: Studying principles for building scalable, reliable digital platforms  
-- Linux system administration  
-- Full-Stack JavaScript: Advancing through The Odin Project to complement my backend expertise in Python and Java
-- Containerization & DevOps: Utilizing Docker for environment consistency and exploring CI/CD pipelines for automated testing and deployment  
+- Scalable Backend Engineering: Building more efficient and scalable backend solutions using Node.js, Express, and modern API architecture principles
+- MEAN Stack Development: Learning Angular and deepening my understanding of full-stack JavaScript development with MongoDB, Express, Angular, and Node.js
+- IoT & Embedded Systems: Experimenting with hardware devices such as the Raspberry Pi to build connected systems and real-world automation projects
+- System Design & Performance: Studying scalable architectures, event-driven systems, and techniques for handling real-time, high-concurrency applications
+- AI & Intelligent Systems: Expanding into AI-assisted applications, machine learning integration, and low-latency intelligent backend services
   
 ## 💼 Team Experience
-Agile & Leadership: I have extensive experience working in and leading collaborative teams using Agile/Scrum methodologies, which has strengthened my ability to manage complex tasks and deliver high-quality software on schedule.
-
-Technical Mentorship: As a Peer & Technical Mentor, I supervise and guide junior developers and other peer mentors, helping them navigate backend workflows, debugging, and Agile practices.
-
-Hybrid AI Implementation: During the development of Game-Coded, I spearheaded the implementation of the chatbot's offline and online AI models, ensuring the application remained accessible in low-connectivity environments.
-
-Infrastructure & DevOps: I have successfully implemented project automation and containerized deployments using Docker, focusing on creating reliable, reproducible environments for team-based projects.
-
-Brownfield Development: My work on brownfield projects has significantly improved my soft skills and technical adaptability, as I’ve learned to navigate and enhance existing legacy codebases while maintaining team alignment
-
+Agile & Leadership: I have extensive experience working in collaborative teams using Agile/Scrum methodologies, which has strengthened my ability to manage complex tasks and deliver high-quality software on schedule.
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sbongiseni Dubazane) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sbongiseni8d@icloud.com) 
